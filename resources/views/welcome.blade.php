@@ -8,7 +8,8 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Your Application's Landing Page.
+                   <center><font color="red" size="+2"> Alphatech Blog Homepage.</font></center><br>
+                    <img src="\images\blog.jpg">
                 </div>
             </div>
         </div>
