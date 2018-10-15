@@ -25,7 +25,7 @@
         }
     </style>
 </head>
-<body id="app-layout">
+<body id="app-layout" background="images/ff.jpg">
     <nav class="navbar navbar-default navbar-static-top">
         <div class="container">
             <div class="navbar-header">
